@@ -24,12 +24,12 @@ Sou um profissional dedicado e motivado, com sólida base educacional em Tecnolo
 
 ## Projetos
 - [Jogo Flappy Bird](https://github.com/AlexpelDev/Flappy_Bird)
-- [Relógio Digital](link_do_projeto](https://github.com/AlexpelDev/relogio_digital)
+- [Relógio Digital](https://github.com/AlexpelDev/relogio_digital)
 
 ## Educação
 - **Analise e Desenvolvimento de Sistemas**
-  - Universidade Estácio, Porto Alegre
-  - Março de 2023 - Presente
+  - Universidade Estácio
+  - Março de 2023 - Presente (dezembro de 2025)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/alex-donozor/)
