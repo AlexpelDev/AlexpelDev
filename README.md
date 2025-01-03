@@ -23,8 +23,8 @@ Sou um profissional dedicado e motivado, com sólida base educacional em Tecnolo
 - Modelagem de Sistemas em UML
 
 ## Projetos
-- [Projeto de Análise de Dados usando Python](link_do_projeto)
-- [Desenvolvimento de Aplicativo Web para Gerenciamento de Dados](link_do_projeto)
+- [Jogo Flappy Bird](https://github.com/AlexpelDev/Flappy_Bird)
+- [Relógio Digital](link_do_projeto](https://github.com/AlexpelDev/relogio_digital)
 
 ## Educação
 - **Analise e Desenvolvimento de Sistemas**
