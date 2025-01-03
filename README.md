@@ -29,7 +29,7 @@ Sou um profissional dedicado e motivado, com sólida base educacional em Tecnolo
 ## Educação
 - **Analise e Desenvolvimento de Sistemas**
   - Universidade Estácio
-  - Março de 2023 - Presente (dezembro de 2025)
+  - Março de 2023 - Presente (Dezembro de 2025)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/alex-donozor/)
